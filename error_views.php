@@ -1,5 +1,5 @@
 <?php 
-require_once'../init.php';
+require_once'init.php';
 class Error_Views extends Checking{
 
     //Checking Files Directory

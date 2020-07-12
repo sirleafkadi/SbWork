@@ -8,8 +8,11 @@
 
     <!-- linking css, jquery, javascript, Bootstrap !-->
     <?php 
-    $bootstrap_css="../src/css/bootsrap.css"; $mystyle="../src/css/mystyle.css"; 
-    $jquery="../src/jquery/jquery-3.5.1.min.js";  $bootstrap_js="../src/js/bootstrap.js"; $myscript="../src/js/myscript.js";  
+    $bootstrap_css="../src/css/bootstrap.css";
+     $mystyle="../src/css/mystyle.css"; 
+    $jquery="../src/jquery/jquery-3.5.1.min.js"; 
+     $bootstrap_js="../src/js/bootstrap.js";
+      $myscript="../src/js/myscript.js";  
      
    echo' <link rel="stylesheet" type="text/css" href="'.$bootstrap_css.'"> ';
    echo' <link rel="stylesheet" type="text/css" href="'.$mystyle.'"> ';
